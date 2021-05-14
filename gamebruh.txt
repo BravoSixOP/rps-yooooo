@@ -1,0 +1,10 @@
+Rock Paper Scissors(Very original idea)
+
+NPC:Bot(if u dont have any friends)[Math.round(random(1,3))]
+
+Multiplayer: Realtime Database(if u have friends)
+
+Images(rock, paper, scissors)
+
+Feedback: Points, text
+
